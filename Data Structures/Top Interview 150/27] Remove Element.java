@@ -1,5 +1,5 @@
 //The first ever coding question that i completely solved independently
-//and this has 0ms runtime and beats 100%.
+//and this has 0ms runtime and beats 100%
 class Solution {
     public int removeElement(int[] nums, int val) {
         int k = 0;
